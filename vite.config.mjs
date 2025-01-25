@@ -20,6 +20,6 @@ export default defineConfig({
             host: 'localhost',
             port: 8080
         },
-        origin: 'http://localhost:5173/'
+        origin: 'http://localhost:8080/'
     }
 });
